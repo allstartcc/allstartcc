@@ -1,0 +1,2 @@
+# allstartcc
+cc is god
